@@ -1,14 +1,14 @@
 [features]
 seeds = false
 skip-lint = false
-[programs.localnet]
+[programs.devnet]
 myepicproject = "DP2bB5qqaQDyQWYXKy4ixE8wWXLzNh5F2kp4RJqRNkFf"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/Users/decentralizer/.config/solana/id.json"
 
 [scripts]
